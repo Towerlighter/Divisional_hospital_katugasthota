@@ -1,3 +1,2 @@
-# Divisional_hospital_katugasthota
-Hospital of katugasthota in Sri Lanka
-<h1>SANUl</h1>
+Divisional hospital katugasthota
+Welcome to the website of katugasthota hospital
